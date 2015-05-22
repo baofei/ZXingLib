@@ -18,14 +18,14 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.qrcodelib.CaptureActivity"
+            android:name="com.bf.zx.qrcodelib.CaptureActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ShareActivity"
+        <activity android:name="com.bf.zx.qrcodelib.ShareActivity"
               android:stateNotNeeded="true"
               android:screenOrientation="user">
       <intent-filter>

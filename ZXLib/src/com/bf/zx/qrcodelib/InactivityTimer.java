@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.qrcodelib;
+package com.bf.zx.qrcodelib;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;

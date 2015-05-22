@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.qrcodelib;
+package com.bf.zx.qrcodelib;
 
 import com.zxing.qrcodelib.camera.CameraManager;
 import com.zxing.qrcodelib.camera.FrontLightMode;
